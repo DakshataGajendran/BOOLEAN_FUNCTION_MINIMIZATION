@@ -37,16 +37,10 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Developed by: RegisterNumber:*/
 
-
-**RTL realization**
-
 **Output:**
+![Uploading Screenshot 2024-03-15 144551.png…]()
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
-
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
