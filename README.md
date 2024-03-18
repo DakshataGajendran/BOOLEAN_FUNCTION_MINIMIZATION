@@ -38,6 +38,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: RegisterNumber:*/
 
 **Output:**
+![Screenshot 2024-03-15 144551](https://github.com/DakshataGajendran/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742623/9ea152f7-b7da-46ba-b9c3-086243fcf7e3)
 
 
 
